@@ -2,6 +2,7 @@
 var username = "mani";
 var age = 12;
 console.log(username);
+export {};
 // lec-2 --------------------------------------------
 // primitive DataTypes =>>>>>>>>>>>>>>>>>>>>>>
 // number => num:number = 10 ; num:number:10.10
@@ -48,3 +49,12 @@ console.log(username);
 // 5. Function Type -----------------------------------
 // let add:(x:number, y:number) =number;
 // add = (x,y) => x+y 
+//  num to string 
+// var num = 112
+// var data:string = num.toString()
+// var data = ""+num
+// var bool = true
+// var data = bool.toString()
+// var data = ""+bool
+// ---------------------------
+//# sourceMappingURL=app.js.map

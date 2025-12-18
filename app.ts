@@ -69,3 +69,15 @@ console.log(username)
 
 // let add:(x:number, y:number) =number;
 // add = (x,y) => x+y 
+
+//  num to string 
+// var num = 112
+// var data:string = num.toString()
+// var data = ""+num
+// var bool = true
+// var data = bool.toString()
+// var data = ""+bool
+
+
+// ---------------------------
+
